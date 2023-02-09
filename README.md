@@ -24,10 +24,10 @@ Eu sei que, para quem usa o Godot a algum tempo, isso pode ser trivial, mas meu 
   
 Tentei simplificar o máximo possível para facilitar a mim e a todos que queiram usá-lo. Não precisa me dar os créditos, ma se o fizer fico grato (^_^)v
 
-Resumindo a história: o shader que trago precisa apenas de:
+Resumindo a história: o shader que trago precisa apenas:
 - do sprite e como atribuir um shader a ele, claro
-- uma imagem que servirá de paleta
-- e saber quantos pixels essa paleta tem de largura (pois cada coluna de pixels será um padrão de cores para nosso sprite)
+- de uma imagem que servirá de paleta
+- de saber quantos pixels essa paleta tem de largura (pois cada coluna de pixels será um padrão de cores para nosso sprite)
   
 O que ocorre é: o shader lê a imagem da paleta, acha quantos px aquela imagem tem de largura troca a cor do sprite de acordo com o índice que é fornecido via GDScript.
 
