@@ -1,4 +1,4 @@
-# Another Palette Swapper
+# Another Palette Swapper (Godot 3.5x)
 
 <details>
 <summary>English</summary>
