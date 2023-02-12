@@ -1,5 +1,7 @@
 # Another Palette Swapper (Godot 3.5x)
 
+![Image of main part of the application](/PS.jpg)
+
 <details>
 <summary>English</summary>
 Hello! I bring you all a shader variant to change colors in Godot.
