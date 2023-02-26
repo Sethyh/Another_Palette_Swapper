@@ -1,4 +1,4 @@
-# Another Palette Swapper (Godot 3.5x)
+# Another Palette Swapper
 
 ![Image of main part of the application](/PS.jpg)
 
